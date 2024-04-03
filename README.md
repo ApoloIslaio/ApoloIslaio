@@ -12,6 +12,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=apoloislaio&show_icons=true" />
 </picture>
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=apoloislaio&theme=dark&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=apoloislaio&show_icons=true&theme=dark&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
