@@ -1,6 +1,6 @@
 ### Olá 👋
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=apoloislaio&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -10,11 +10,27 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=apoloislaio&show_icons=true" />
-</picture>
+</picture> -->
+
+<br>
+<br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=B3B3B3&pause=1000&color=b3b3b3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Apolo;I'm+21+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
+<br>
+<br>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apoloislaio&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=apoloislaio&theme=dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=apoloislaio&show_icons=true&theme=dark&layout=compact" />
+  <!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=apoloislaio&theme=dark&mode=weekly" /> -->
+  
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=apoloislaio&show_icons=true&theme=dark&layout=compact" />
+
  </div>
  
  &nbsp;
